@@ -2,7 +2,7 @@
 
 set -euo pipefail
 
-SOURCE_PDF="/Users/stefanograncini/Desktop/WORK/PhD/Second_Paper_Debt/Paper Writing/August 2026/Git Push/Public_Debt__iMPCs__and_Fiscal_Policy_Transmission_11Aug26_2.pdf"
+SOURCE_PDF="/Users/stefanograncini/Desktop/WORK/PhD/Second_Paper_Debt/Paper Writing/Current JMP/JMP.pdf"
 REPO_DIR="/Users/stefanograncini/Desktop/WORK/Job Market/job-market-paper"
 DEST_PDF="${REPO_DIR}/paper.pdf"
 INDEX_HTML="${REPO_DIR}/index.html"
